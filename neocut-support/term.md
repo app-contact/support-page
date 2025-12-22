@@ -95,33 +95,96 @@
 
 # Terms of Use (English)
 
-These Terms govern the use of the NEOCUT app (\"the App\").  
-By using the App, users agree to these Terms.
+  These Terms of Use ("Terms") set forth the conditions for using the application "NEOCUT" ("the App").
+  **By downloading, installing, or using the App, you agree to be bound by all terms and conditions set forth herein. If you do not agree, do not use the App.**
 
-## Article 1 (Scope)
-These Terms apply to all relationships between the user and the provider.
+  ## Article 1 (Scope of Application)
 
-## Article 2 (Prohibited Conduct)
-Users shall not:
-- Violate laws or public order
-- Interfere with the App or server operation
-- Access, modify, or reverse-engineer without authorization
-- Engage in unauthorized commercial use or redistribution
-- Conduct any act deemed inappropriate by the provider
+  These Terms apply to all relationships between the user and the provider regarding the App.
 
-## Article 3 (Disclaimer)
-- The App does not guarantee accuracy or completeness of displayed information.  
-- The provider is not responsible for any damages resulting from use of the App.  
-- The App does not provide investment advice.
+  ## Article 2 (Prohibited Activities)
 
-## Article 4 (Modification / Termination)
-The provider may modify or discontinue the App without prior notice.
+  Users shall not engage in the following activities:
 
-## Article 5 (Intellectual Property)
-All IP rights related to the App belong to the provider or rightful owners.
+  - Violating laws, regulations, or public order and morals
+  - Interfering with the operation of the App or its servers
+  - Unauthorized access, tampering, reverse engineering, decompiling, or disassembling
+  - Unauthorized commercial use, reproduction, redistribution, or secondary use
+  - Using information from the App as a basis for investment decisions
+  - Illegal financial transactions using the App
+  - Registering or using the App with false information
+  - Causing damage to other users or third parties
+  - Any other activities deemed inappropriate by the provider
 
-## Article 6 (Governing Law / Jurisdiction)
-These Terms are governed by Japanese law.  
-Disputes shall fall under the exclusive jurisdiction of the court where the provider is located.
+  ## Article 3 (Important Investment Warning)
 
-_Last updated: 2025-11-20_
+  1. **The App is NOT intended to provide investment advice, investment solicitation, or recommendations for financial products.**
+  2. **Information displayed in the App shall NOT be used as a basis for any investment decisions.**
+  3. Investments in stocks and financial products carry the risk of loss of principal.
+  4. All investment decisions must be made at the user's own responsibility.
+  5. The provider assumes no liability for any losses resulting from investment decisions made based on the use of the App.
+
+  ## Article 4 (Disclaimer of Warranties)
+
+  1. **The App is provided "AS IS" without any warranties, express or implied.**
+  2. The provider does not guarantee the accuracy, completeness, timeliness, usefulness, or reliability of any information displayed in the App (including but not limited to stock prices, indicators, and news).
+  3. The provider shall not be liable for any direct, indirect, incidental, special, punitive, or consequential damages (including but not limited to loss of profits, loss of data, or loss of business opportunities) arising from the use or inability to use the App.
+  4. This disclaimer applies regardless of the provider's negligence.
+  5. In cases where legal exemption is not permitted, the provider's liability shall be limited to the amount paid by the user for the App.
+
+  ## Article 5 (Disclaimer Regarding Data and Information)
+
+  1. Data displayed in the App may include information provided by third parties, and the provider assumes no responsibility for its accuracy.
+  2. Data delays, omissions, and errors may occur.
+  3. Even when real-time data is claimed, delays may occur due to technical limitations.
+  4. Historical data and statistical information do not guarantee future results.
+
+  ## Article 6 (Modification, Interruption, and Termination of Service)
+
+  1. The provider may modify, interrupt, or terminate the App without prior notice to users.
+  2. The App may become unavailable due to system maintenance, failures, natural disasters, or other reasons.
+  3. The provider shall not be liable for any damages caused to users by modification, interruption, or termination of the service.
+
+  ## Article 7 (Third-Party Services)
+
+  1. The App may utilize third-party services (APIs, data providers, etc.).
+  2. The provider shall not be liable for any impact on the App caused by failures, changes, or termination of third-party services.
+  3. Terms of use of third-party services may apply separately.
+
+  ## Article 8 (Intellectual Property Rights)
+
+  1. Copyrights, trademarks, and other intellectual property rights related to the App belong to the provider or legitimate rights holders.
+  2. Users may not reproduce, modify, distribute, or publish the content of the App without authorization.
+
+  ## Article 9 (Subscriptions)
+
+  1. Some features of the App are provided through paid subscriptions.
+  2. Payment will be charged to your Apple ID account.
+  3. Subscriptions automatically renew unless canceled at least 24 hours before the end of the current period.
+  4. You can manage or cancel your subscription in your App Store account settings after purchase.
+  5. Refunds are subject to Apple's policies. The provider does not process refunds directly.
+
+  ## Article 10 (User Indemnification)
+
+  Users shall indemnify the provider for any damages (including attorney's fees) incurred by the provider due to violation of these Terms or misuse of the App.
+
+  ## Article 11 (Modification of Terms)
+
+  1. The provider may modify these Terms as necessary.
+  2. Modified Terms shall take effect upon posting within the App or on related websites.
+  3. Continued use of the App after modification shall constitute acceptance of the modified Terms.
+
+  ## Article 12 (Severability)
+
+  If any provision of these Terms is found to be invalid or unenforceable, the validity of other provisions shall not be affected.
+
+  ## Article 13 (Governing Law and Jurisdiction)
+
+  1. These Terms shall be governed by the laws of Japan.
+  2. Any disputes relating to these Terms shall be subject to the exclusive jurisdiction of the court having jurisdiction over the provider's location as the court of first instance.
+
+  ---
+
+  **By using the App, users acknowledge that they have read, understood, and agreed to all of the above terms.**
+
+  ---
