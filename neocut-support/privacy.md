@@ -58,13 +58,13 @@ This Privacy Policy explains what information the App collects and how it is use
 ## 2. Information We Collect
 
 - **Device Identifier (Install ID):**
-The Install ID used by the App is an anonymized identifier and does not directly identify an individual user.
+  The Install ID used by the App is an anonymized identifier and does not directly identify an individual user.
 
 - **App Usage Data:**
-Anonymous usage statistics collected via Firebase Analytics.
+  Anonymous usage statistics collected via Firebase Analytics.
 
 - **Crash Data:**
-Technical data collected via Firebase Crashlytics for bug investigation and app stability improvements.
+  Technical data collected via Firebase Crashlytics for bug investigation and app stability improvements.
 
 ## 3. Purpose of Use
 
