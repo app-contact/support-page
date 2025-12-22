@@ -78,69 +78,88 @@ NEOCUT（以下「本アプリ」）は、ユーザーのプライバシーを�
 
 本プライバシーポリシーは、法令改正やサービス内容の変更等に応じて、予告なく改定される場合があります。
 
-# Privacy Policy (English)
+# Privacy Policy for NEOCUT
 
-**Last updated: 2025-12-23**
+**Last updated: December 23, 2025**
 
 ## 1. Introduction
 
-NEOCUT (the "App") respects user privacy and handles personal information appropriately.
-This Privacy Policy explains what information the App collects and how it is used.
+NEOCUT (the “App”) respects user privacy and handles information in compliance with applicable laws and platform guidelines.  
+This Privacy Policy explains what information the App collects, how it is used, and how it is managed.
 
 ## 2. Information We Collect
 
-- **Device Identifier (Install ID):**
-  The Install ID used by the App is an anonymized identifier and does not directly identify an individual user.
+The App may collect the following types of information:
 
-- **App Usage Data:**
-  Anonymous usage statistics collected via Firebase Analytics.
+- **Device Identifier (Install ID)**  
+  An identifier used for app operation management and fraud prevention.  
+  While it does not directly identify an individual, it may be treated as personal data under applicable data protection laws.
 
-- **Crash Data:**
-  Technical data collected via Firebase Crashlytics for bug investigation and app stability improvements.
+- **App Usage Data**  
+  Anonymous and aggregated usage statistics collected via Firebase Analytics, such as feature usage and interaction patterns.
+
+- **Crash and Diagnostic Data**  
+  Technical information collected via Firebase Crashlytics to improve app stability and diagnose issues.
 
 ## 3. Purpose of Use
 
-The collected information is used for the following purposes:
+Collected information is used solely for the following purposes:
 
-- Improving app quality
-- Investigating and fixing bugs
-- Analyzing usage trends to enhance features
+- Improving app quality and performance  
+- Identifying, investigating, and fixing bugs  
+- Analyzing usage trends to enhance features and user experience
 
-## 4. Data Sharing
+## 4. Data Sharing and Third Parties
 
-The App does not sell or provide collected data to third parties in a form that can identify individual users.
+The App does not sell personal data.
 
-## 5. Data Management
+Collected information may be shared only in the following cases:
 
-Collected data is managed using cloud services such as Firebase and is protected with industry-standard security measures.
+- With service providers such as Firebase (Google LLC), strictly for the purposes described above
+- When required by applicable laws or legal processes
 
-## 6. User Rights
+All service providers are required to implement appropriate security and data protection measures.
 
-- If you wish to request deletion of your data, please contact us using the information below.
-- Uninstalling the App will remove data stored locally on your device.
+## 5. Data Management and Retention
 
-## 7. Children's Privacy
+Collected data is securely managed using cloud services such as Firebase.  
+Data is retained only for as long as necessary to fulfill the stated purposes and is deleted using reasonable methods when no longer required.
+
+## 6. International Data Transfers
+
+The cloud services used by the App may operate servers outside the user’s country of residence, including in the United States.  
+As a result, collected information may be processed or stored outside the user’s jurisdiction.
+
+## 7. User Rights
+
+Users have the right to:
+
+- Request deletion of collected data
+- Inquire about how their data is handled
+
+Requests can be made through the contact information below.  
+Uninstalling the App will remove data stored locally on the user’s device.
+
+## 8. Children’s Privacy
 
 The App is not intended for children under the age of 13 and does not knowingly collect personal information from children under 13.
 
-## 8. Subscriptions
+## 9. Subscriptions
 
-- Payments are charged to your Apple ID account.
-- Subscriptions automatically renew unless canceled at least 24 hours before the end of the current subscription period.
-- You can manage or cancel your subscription in your App Store account settings after purchase.
-
-## 9. Disclaimer
-
-The accuracy of information displayed in the App is not guaranteed, and the App assumes no liability for any damages arising from its use.
+- Payments are charged to the user’s Apple ID account
+- Subscriptions automatically renew unless canceled at least 24 hours before the end of the current subscription period
+- Subscriptions can be managed or canceled in the App Store account settings after purchase
 
 ## 10. Contact
 
-For any questions or requests regarding privacy, please contact us via:
+For questions or requests regarding this Privacy Policy, please contact us via:
 
-- **Support Page:** https://app-contact.github.io/support-page/neocut-support/
+- **Support Page**  
+  https://app-contact.github.io/support-page/neocut-support/
 
 ## 11. Changes to This Policy
 
-This Privacy Policy may be updated without prior notice.
+This Privacy Policy may be updated from time to time without prior notice due to legal, technical, or operational changes.
+
 
 ---
