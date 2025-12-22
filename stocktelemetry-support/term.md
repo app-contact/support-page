@@ -180,4 +180,4 @@ These Terms of Use ("Terms") set forth the conditions for using the application 
 
   ---
 
-_Last updated: 2025-09-01_
+_Last updated: 2025-12-23_
