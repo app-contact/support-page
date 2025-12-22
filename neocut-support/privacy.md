@@ -46,7 +46,6 @@ No personally identifiable data is sold or shared with third parties.
 Data is securely managed using Firebase services.
 
 ## Disclaimer
-This app does not provide investment advice.  
 Accuracy of displayed data is not guaranteed. Use at your own risk.
 
 _Last updated: 2025-11-20_
