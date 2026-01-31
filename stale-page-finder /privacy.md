@@ -1,10 +1,10 @@
-# Privacy Policy - Content Health Check
+# Privacy Policy - Stale Page Finder
 
 **Last updated: January 2025**
 
 ## Introduction
 
-Content Health Check ("the App") is a Confluence Cloud application developed by middlecore. This Privacy Policy explains how we handle user data.
+Stale Page Finder ("the App") is a Confluence Cloud application developed by middlecore. This Privacy Policy explains how we handle user data.
 
 ## Data Collection
 
@@ -31,7 +31,7 @@ We do not share, sell, or transfer any data to third parties.
 
 ## Security
 
-Content Health Check is built on Atlassian Forge, which runs entirely within Atlassian's secure cloud infrastructure. No data leaves Atlassian's environment.
+Stale Page Finder is built on Atlassian Forge, which runs entirely within Atlassian's secure cloud infrastructure. No data leaves Atlassian's environment.
 
 ## Your Rights
 

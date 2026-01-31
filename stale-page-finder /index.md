@@ -1,12 +1,12 @@
-# Content Health Check - Documentation
+# Stale Page Finder - Documentation
 
 ## Overview
 
-Content Health Check helps Confluence admins find stale and outdated pages quickly using real-time CQL search.
+Stale Page Finder helps Confluence admins find stale and outdated pages quickly using real-time CQL search.
 
 ## Getting Started
 
-1. Navigate to **Apps** → **Content Health Check** in Confluence
+1. Navigate to **Apps** → **Stale Page Finder** in Confluence
 2. Select a time threshold (90, 180, or 365 days)
 3. Optionally filter by space
 4. Click **Search** to find stale pages
