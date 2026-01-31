@@ -37,7 +37,12 @@ Select multiple pages and add labels for easy tracking and follow-up.
 
 ## Support
 
-For questions or issues, contact: your-email@example.com
+For questions or issues, contact: contact@middle-core.com
+
+## Terms of Service
+
+This app is governed by the Bonterms Standard Agreement for Marketplace Transactions, 
+available on the Atlassian Marketplace listing page.
 
 ## FAQ
 
