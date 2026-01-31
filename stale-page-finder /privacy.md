@@ -1,10 +1,10 @@
 # Privacy Policy - Stale Page Finder
 
-**Last updated: January 2025**
+**Last updated: January 2026**
 
 ## Introduction
 
-Stale Page Finder ("the App") is a Confluence Cloud application developed by middlecore. This Privacy Policy explains how we handle user data.
+Stale Page Finder ("the App") is a Confluence Cloud application developed by MiddleCore. This Privacy Policy explains how we handle user data.
 
 ## Data Collection
 
