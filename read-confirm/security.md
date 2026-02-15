@@ -58,9 +58,8 @@ The App requests only the minimum permissions necessary for its functionality, i
 In the event of a security incident:
 
 1. We will investigate and assess the scope and impact promptly
-2. Affected customers will be notified as soon as reasonably possible
-3. Corrective measures will be implemented and verified
-4. A post-incident review will be conducted to prevent recurrence
+2. Corrective measures will be implemented and verified
+3. A post-incident review will be conducted to prevent recurrence
 
 
 ## Compliance
