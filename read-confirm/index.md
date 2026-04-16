@@ -41,8 +41,7 @@ Central management hub for all confirmation requests:
 - View confirmed and pending user lists
 - See confirmation timestamps
 - Progress visualization with progress bars
-- CSV export for audit purposes (STANDARD+ plans)
-- Send reminders to pending users (STANDARD+ plans)
+- CSV export for audit purposes
 
 ## Requirements
 
@@ -155,10 +154,7 @@ A: When enabled, the app automatically registers anyone who views the page as a 
 A: Yes. The app stores confirmation request data and confirmation records using Atlassian Forge Storage. This data is stored securely within Atlassian's infrastructure and is not transmitted externally.
 
 **Q: Can I export confirmation records?**
-A: Yes, users on STANDARD and ENTERPRISE plans can export confirmation records as CSV files for audit purposes.
-
-**Q: How do I send reminders to users who haven't confirmed?**
-A: The reminder feature is available on STANDARD and ENTERPRISE plans. Navigate to the request detail page and click "Send Reminder" to notify pending users.
+A: Yes, you can export confirmation records as CSV files from the request detail page for audit purposes.
 
 **Q: What permissions does the app require?**
 A: The app requires read access to Confluence pages, users, and groups, plus write access to embed the confirmation macro on pages.
@@ -168,4 +164,4 @@ A: Refunds are subject to Atlassian's Marketplace refund policies. Please contac
 
 ---
 
-*Last updated: February 2026*
+*Last updated: April 2026*
