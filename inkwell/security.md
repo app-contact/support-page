@@ -29,8 +29,17 @@ The App is built entirely on **Atlassian Forge**, running within Atlassian's clo
 
 The App requests only the minimum scopes necessary for section tracking: reading page, space, and user information; writing reminder comments; and app storage. See [Atlassian's Forge documentation](https://developer.atlassian.com/platform/forge/manifest-reference/permissions/) for details.
 
+## Monitoring
+
+- Application logs and errors are monitored through the Forge developer console
+- Logs are reviewed regularly to detect anomalies or unexpected behavior
+- Infrastructure-level monitoring is provided by the Forge platform
+
 ## Vulnerability Management
 
+- **Reporting**: If you believe you have found a security vulnerability in the App, please report it to **contact@middle-core.com**. We will acknowledge your report within 2 business days
+- **Triage**: Reported issues are assessed for severity and potential impact on customer data, and prioritized accordingly
+- **Remediation**: Confirmed vulnerabilities are remediated based on severity, with critical issues addressed with the highest priority. Fixes are deployed through the Forge platform, which distributes updates to all installations
 - Dependencies are regularly reviewed and updated
 - The App has completed Atlassian's Marketplace security review process
 - The Forge platform manages infrastructure-level security and patching
@@ -40,8 +49,9 @@ The App requests only the minimum scopes necessary for section tracking: reading
 In the event of a security incident:
 
 1. We will investigate and assess the scope and impact promptly
-2. Corrective measures will be implemented and verified
-3. A post-incident review will be conducted to prevent recurrence
+2. If customer data is affected, we will notify affected customers and report the incident to Atlassian without undue delay
+3. Corrective measures will be implemented and verified
+4. A post-incident review will be conducted to prevent recurrence
 
 ## Compliance
 
